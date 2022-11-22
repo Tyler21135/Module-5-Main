@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../UofO-VIRT-FSF-PT-10-2022-U-LOLC"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "crispy-octo-meme"
+	}
+}
